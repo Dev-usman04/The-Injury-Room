@@ -1,7 +1,6 @@
-// src/utils/helpers.js
 
 /**
- * Get CSS classes for severity levels
+ * designing the severity levels with colors
  */
 export const getSeverityColor = (severity) => {
   switch (severity) {
@@ -25,7 +24,7 @@ export const filterInjuriesBySport = (injuries, selectedSport) => {
 };
 
 /**
- * Get body part positions for injury indicators
+ * the body part positions to indicate injury
  */
 export const getBodyPartPositions = () => ({
   head: { x: 175, y: 35 },

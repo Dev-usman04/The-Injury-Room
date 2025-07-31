@@ -1,4 +1,3 @@
-// src/components/InjuryPanel/InjuryCard.jsx
 import React from 'react';
 import { AlertTriangle, Info, Shield, Clock } from 'lucide-react';
 import { getSeverityColor } from '../../utils/helpers';

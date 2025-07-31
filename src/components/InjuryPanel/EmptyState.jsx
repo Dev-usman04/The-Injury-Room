@@ -1,4 +1,3 @@
-// src/components/InjuryPanel/EmptyState.jsx
 import React from 'react';
 import { Target, BookOpen } from 'lucide-react';
 import { injuryData } from '../../data/injuryData';

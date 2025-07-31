@@ -1,4 +1,3 @@
-// src/components/ui/StatsCards.jsx
 import React from 'react';
 import { Activity, AlertTriangle, Target, TrendingUp } from 'lucide-react';
 import { statsData } from '../../data/injuryData';

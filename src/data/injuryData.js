@@ -1,4 +1,3 @@
-// src/data/injuryData.js
 export const injuryData = {
   head: {
     name: 'Head & Neck',

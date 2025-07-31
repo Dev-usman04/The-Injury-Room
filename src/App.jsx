@@ -1,4 +1,3 @@
-// src/App.jsx
 import React, { useState, useEffect } from 'react';
 import Layout from './components/Layout/Layout';
 import Header from './components/ui/Header';

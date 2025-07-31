@@ -1,4 +1,3 @@
-// src/components/ui/Header.jsx
 import React from 'react';
 import { Shield } from 'lucide-react';
 

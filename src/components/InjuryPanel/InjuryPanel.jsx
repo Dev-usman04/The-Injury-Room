@@ -1,4 +1,3 @@
-// src/components/InjuryPanel/InjuryPanel.jsx
 import React from 'react';
 import { X } from 'lucide-react';
 import { injuryData } from '../../data/injuryData';

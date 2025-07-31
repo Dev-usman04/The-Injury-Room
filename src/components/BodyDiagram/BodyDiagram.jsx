@@ -1,4 +1,3 @@
-// src/components/BodyDiagram/BodyDiagram.jsx
 import React from 'react';
 import { injuryData } from '../../data/injuryData';
 import { getBodyPartPositions } from '../../utils/helpers';

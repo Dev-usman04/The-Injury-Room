@@ -1,4 +1,3 @@
-// src/components/Layout/BackgroundElements.jsx
 import React from 'react';
 
 const BackgroundElements = () => {
